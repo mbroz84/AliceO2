@@ -1,0 +1,26 @@
+var namespaceo2_1_1hmpid =
+[
+    [ "Cluster", "d0/d55/classo2_1_1hmpid_1_1Cluster.html", "d0/d55/classo2_1_1hmpid_1_1Cluster" ],
+    [ "Clusterer", "dd/d6a/classo2_1_1hmpid_1_1Clusterer.html", "dd/d6a/classo2_1_1hmpid_1_1Clusterer" ],
+    [ "DataDecoderTask", "de/d4e/classo2_1_1hmpid_1_1DataDecoderTask.html", "de/d4e/classo2_1_1hmpid_1_1DataDecoderTask" ],
+    [ "Detector", "dc/daf/classo2_1_1hmpid_1_1Detector.html", "dc/daf/classo2_1_1hmpid_1_1Detector" ],
+    [ "Digit", "d3/d03/classo2_1_1hmpid_1_1Digit.html", "d3/d03/classo2_1_1hmpid_1_1Digit" ],
+    [ "DigitReader", "db/da8/classo2_1_1hmpid_1_1DigitReader.html", "db/da8/classo2_1_1hmpid_1_1DigitReader" ],
+    [ "DumpDigitsTask", "d2/df0/classo2_1_1hmpid_1_1DumpDigitsTask.html", "d2/df0/classo2_1_1hmpid_1_1DumpDigitsTask" ],
+    [ "ExecutionTimer", "d1/de7/classo2_1_1hmpid_1_1ExecutionTimer.html", "d1/de7/classo2_1_1hmpid_1_1ExecutionTimer" ],
+    [ "Geo", "de/d5a/classo2_1_1hmpid_1_1Geo.html", null ],
+    [ "HitType", "d5/d85/classo2_1_1hmpid_1_1HitType.html", "d5/d85/classo2_1_1hmpid_1_1HitType" ],
+    [ "HmpidCoder", "d5/d5b/classo2_1_1hmpid_1_1HmpidCoder.html", "d5/d5b/classo2_1_1hmpid_1_1HmpidCoder" ],
+    [ "HmpidDecoder", "de/da1/classo2_1_1hmpid_1_1HmpidDecoder.html", "de/da1/classo2_1_1hmpid_1_1HmpidDecoder" ],
+    [ "HmpidDecodeRawDigit", "d3/d3d/classo2_1_1hmpid_1_1HmpidDecodeRawDigit.html", "d3/d3d/classo2_1_1hmpid_1_1HmpidDecodeRawDigit" ],
+    [ "HmpidDecodeRawFile", "d1/d59/classo2_1_1hmpid_1_1HmpidDecodeRawFile.html", "d1/d59/classo2_1_1hmpid_1_1HmpidDecodeRawFile" ],
+    [ "HmpidDecodeRawMem", "d2/d6b/classo2_1_1hmpid_1_1HmpidDecodeRawMem.html", "d2/d6b/classo2_1_1hmpid_1_1HmpidDecodeRawMem" ],
+    [ "HMPIDDigitizer", "dc/d7c/classo2_1_1hmpid_1_1HMPIDDigitizer.html", "dc/d7c/classo2_1_1hmpid_1_1HMPIDDigitizer" ],
+    [ "HMPIDDPLClustererTask", "d5/d64/classo2_1_1hmpid_1_1HMPIDDPLClustererTask.html", "d5/d64/classo2_1_1hmpid_1_1HMPIDDPLClustererTask" ],
+    [ "HMPIDDPLDigitizerTask", "db/d9c/classo2_1_1hmpid_1_1HMPIDDPLDigitizerTask.html", "db/d9c/classo2_1_1hmpid_1_1HMPIDDPLDigitizerTask" ],
+    [ "HmpidEquipment", "d8/d5f/classo2_1_1hmpid_1_1HmpidEquipment.html", "d8/d5f/classo2_1_1hmpid_1_1HmpidEquipment" ],
+    [ "Param", "d3/d03/classo2_1_1hmpid_1_1Param.html", "d3/d03/classo2_1_1hmpid_1_1Param" ],
+    [ "PedestalsCalculationTask", "de/de5/classo2_1_1hmpid_1_1PedestalsCalculationTask.html", "de/de5/classo2_1_1hmpid_1_1PedestalsCalculationTask" ],
+    [ "RawFileReaderTask", "d6/d08/classo2_1_1hmpid_1_1RawFileReaderTask.html", "d6/d08/classo2_1_1hmpid_1_1RawFileReaderTask" ],
+    [ "WriteRawFromDigitsTask", "db/d0d/classo2_1_1hmpid_1_1WriteRawFromDigitsTask.html", "db/d0d/classo2_1_1hmpid_1_1WriteRawFromDigitsTask" ]
+];
